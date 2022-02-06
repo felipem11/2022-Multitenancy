@@ -1,4 +1,4 @@
-# 2021-Multitenancy
+# 2022-Multitenancy
 
 This application shows the implementation of a multi-tenancy system using the independent database model per client.
 
@@ -13,8 +13,6 @@ This application shows the implementation of a multi-tenancy system using the in
 - **Utilities**:
   -Lombok 1.18.20
 
-## Presentation
-- [Multitenancy.pdf](pdf/Multitenancy.pdf)
 
 ## Execution in development
 Run the springboot project
